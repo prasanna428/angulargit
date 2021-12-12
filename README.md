@@ -1,0 +1,2 @@
+# angulargit
+basic git installing
